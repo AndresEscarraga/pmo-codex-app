@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" role="img" aria-label="Placeholder captura módulo Monte Carlo">
+  <rect width="600" height="360" fill="#fdf2f8" />
+  <text x="40" y="60" fill="#be185d" font-size="36" font-family="'Inter',sans-serif" font-weight="600">Schedule Risk Monte Carlo</text>
+  <text x="40" y="110" fill="#831843" font-size="20" font-family="'Inter',sans-serif">Percentiles P50/P80 · Drivers principales</text>
+  <g transform="translate(60 150)">
+    <polyline points="0,80 80,60 160,90 240,40 320,20 400,30 480,10" fill="none" stroke="#db2777" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" />
+    <circle cx="320" cy="20" r="8" fill="#f97316" />
+    <circle cx="400" cy="30" r="8" fill="#22d3ee" />
+    <circle cx="480" cy="10" r="8" fill="#22c55e" />
+    <line x1="320" y1="120" x2="320" y2="0" stroke="#f97316" stroke-dasharray="6 6" stroke-width="2" />
+    <text x="300" y="140" fill="#b91c1c" font-size="16" font-family="'Inter',sans-serif">P50</text>
+    <line x1="400" y1="120" x2="400" y2="0" stroke="#22d3ee" stroke-dasharray="6 6" stroke-width="2" />
+    <text x="380" y="140" fill="#0369a1" font-size="16">P80</text>
+  </g>
+  <text x="60" y="320" fill="#9d174d" font-size="16" font-family="'Inter',sans-serif">Simulaciones 5 000+</text>
+</svg>

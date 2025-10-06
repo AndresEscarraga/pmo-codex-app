@@ -1,0 +1,9 @@
+{
+  "name": "PM Lab",
+  "short_name": "PM Lab",
+  "start_url": "/pm-lab/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": []
+}

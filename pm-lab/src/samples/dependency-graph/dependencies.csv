@@ -1,0 +1,5 @@
+From,To,Type
+Discovery,Design,finish-start
+Design,Build,finish-start
+Build,QA,finish-start
+QA,Release,finish-start

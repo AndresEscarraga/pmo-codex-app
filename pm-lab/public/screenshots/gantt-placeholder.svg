@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" role="img" aria-label="Placeholder captura módulo Gantt y CPM">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f8fafc" />
+      <stop offset="100%" stop-color="#e0f2fe" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="360" fill="url(#bg)" />
+  <g fill="#0f172a" font-family="'Inter',sans-serif">
+    <text x="40" y="60" font-size="36" font-weight="600">Gantt &amp; Critical Path</text>
+    <text x="40" y="110" font-size="20">Barras de tareas · Camino crítico resaltado</text>
+  </g>
+  <g transform="translate(40 150)">
+    <rect x="0" y="0" width="520" height="24" rx="6" fill="#bae6fd" />
+    <rect x="320" y="0" width="120" height="24" rx="6" fill="#f97316" opacity="0.8" />
+    <rect x="60" y="44" width="420" height="24" rx="6" fill="#93c5fd" />
+    <rect x="420" y="44" width="120" height="24" rx="6" fill="#f97316" opacity="0.8" />
+    <rect x="120" y="88" width="320" height="24" rx="6" fill="#60a5fa" />
+    <rect x="260" y="132" width="220" height="24" rx="6" fill="#2563eb" />
+    <text x="8" y="18" font-size="14" fill="#0f172a">Discovery</text>
+    <text x="68" y="62" font-size="14" fill="#0f172a">Design</text>
+    <text x="128" y="106" font-size="14" fill="#0f172a">Build</text>
+    <text x="268" y="150" font-size="14" fill="#0f172a">QA</text>
+  </g>
+  <g stroke="#94a3b8" stroke-width="2" fill="none" stroke-linecap="round" transform="translate(40 150)">
+    <path d="M520 12h28" />
+    <path d="M540 12l-8-8" />
+    <path d="M540 12l-8 8" />
+  </g>
+  <text x="380" y="330" font-size="16" fill="#1d4ed8" font-family="'Inter',sans-serif">Simulación CPM</text>
+</svg>

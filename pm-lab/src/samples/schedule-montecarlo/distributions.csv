@@ -1,0 +1,6 @@
+id,distribution
+T1,triangular(2,3,5)
+T2,pert(3,5,9)
+T3,triangular(6,8,10)
+T4,triangular(3,4,5)
+T5,triangular(1,1,2)
