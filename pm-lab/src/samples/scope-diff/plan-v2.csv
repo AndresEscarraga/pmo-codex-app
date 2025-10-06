@@ -1,0 +1,5 @@
+id,name,duration,dependsOn
+T1,Discovery,4,
+T2,Design,5,T1
+T3,Build,9,T2
+T4,QA,4,T3

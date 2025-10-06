@@ -1,0 +1,6 @@
+id,name,duration,dependsOn,assignee,status,start,due,distribution
+T1,Discovery,3,,Ana,In Progress,2025-10-06,2025-10-08,triangular(2,3,5)
+T2,Design,5,T1,Camilo,Todo,,,pert(3,5,9)
+T3,Build,8,T2;T1,Lina,Todo,,,
+T4,QA,4,T3,Jose,Todo,,,
+T5,Release,1,T4,Ana,Todo,,,
